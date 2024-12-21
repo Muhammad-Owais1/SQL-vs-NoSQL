@@ -12,7 +12,7 @@ export default function Edit() {
           <p className="whitespace-nowrap">Profile Image</p>
           <input type="file" />
         </div>
-        <button className="border-2 border-white">SignUp</button>
+        <button className="border-2 border-white">Edit</button>
       </div>
     </div>
   );
